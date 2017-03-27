@@ -12,7 +12,7 @@ This package provides **Tasks** that extend the **Automation Engine** functional
 Author
 ======
 
-* [Rove Monteux] - <https://rmonteux.wordpress.com/>, <https://www.linkedin.com/in/rovemonteux>
+* [Rove Monteux] - <http://monteux.cf/>, <https://www.linkedin.com/in/rovemonteux>
 
 License
 =======
